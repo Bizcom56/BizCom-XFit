@@ -1,5 +1,5 @@
 
-  <h2 align="center"> BizCom-XFit</h2>
+  <h1 align="center"> BizCom-XFit</h1>
   Project done during Full Stack Software Engineering studies at ALX. It aims to building my portfolio project as part of the curriculumn 
   In this project, I have created a Fitness App, The project is built using Expo, React Native, and React Native Navigation.
 
